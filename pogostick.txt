@@ -1,0 +1,61 @@
+===========================================================================
+Title                   : Pogostick
+Version			: v0.9
+Filename                : pogostick.pk3
+Date Finished           : March, 15th 2008
+Authors                 : Tormentor667
+Web Page                : http://www.realm667.com/
+Email Address           : webmaster@tormentor667.de
+
+Description             : A 2D/3D platform game for Doom heavily inspired
+			  by Commander Keen and other famous Apogee titles.
+
+Information		: Controls - Before you start playing, please adjust 
+				     the controls to your needs ("Customize 
+				     Controls", Pogostick key sectoion)
+			  Custom Maps - If you want to create your own "Pogostick"
+					maps, read the tutorial included in the
+				 	zip file. If it is interesting enough,
+					feel free to send me the file and I will
+					include it as official map (credited ;))
+					Same goes to new player classes!
+			
+Credits	& Sources	: id Software for Doom & Commander Keen		   
+			  Randy Heit for ZDoom
+			  Graf Zahl for GZDoom
+
+Special Thanks		: To "Worst" for helping me with the script for example
+			  developing new features, fixing bugs, enhancing and
+			  optimizing the script structures and coop compatibility.
+			  Thx man, you made this so much better!		  
+			  			  
+===========================================================================
+
+* Play Information *
+
+Maps                    : 3
+Source Port		: GZDoom 
+Single Player           : Yes
+Cooperative 2-8 Player  : Yes
+Deathmatch 2-8 Player   : No
+Difficulty Settings     : No
+New Sounds              : Yes
+New Music               : Yes
+New Graphics            : Yes
+
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : 3 weeks
+Editor(s) used          : XWE, SlumpEd, DecX, DoomBuilder, Adobe Photoshop
+Known Bugs              : None
+
+* Other Information *
+
+Where to Get		: http://www.realm667.com/
+			  http://www.doomworld.com/idgames/
+Copy Information	: You may use material from this project for your own
+			  projects as long as you credit the respective creators
+			  You may upload this file somewhere else as long as
+			  this file stays included as it is

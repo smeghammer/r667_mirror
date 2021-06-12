@@ -1,0 +1,60 @@
+===========================================================================
+Title                   : Sapphire - Orbital Research
+Filename                : sapphire.pk3
+Date Finished           : May, 1st 2006 (v1.0)
+			  May, 24th 2020 (v2.0)
+Author                  : Daniel "Tormentor667" Gimmer
+Web Page                : http://www.realm667.com
+Email Address           : webmaster@tormentor667.de
+
+Description             : This is a medium sized map based on a space station, a
+			  research facility for engines powered by simulated black
+			  holes, maintained by the Sapphire Corps.
+
+Thx goes to	        : id Software for DooM & Quake
+			  Randy Heit for ZDoom
+			  Graf Zahl for GZDoom
+			  Authors of the TooMuchBrown texture set
+			  Authors of AltDeaths from https://realm667.com/index.php/en/component/docman/?task=doc_download&gid=766&Itemid=
+			  AgentSpork and Carnevil for the "Hectebus"
+			  Eriance for the "Spider Demolisher"
+			  Ghastly_Dragon for Hectebus and Demolisher GLDefs
+			  Sandypaper for Hectebus and Demolisher brightmaps
+			  Vader for some sound edits for Hectebus
+			  Vados and LucasArts for Endship model from https://p3dm.ru/files/avio/other_avia/7061-starfighter-.html
+			  Gothic for the BHGen weapon code and sprites edit
+			  NMN, Zero Prophet, Reactor, Kronos and Midway for BHGen weapon sprites
+			  DBThanatos and D4T Team for zoomfactor and lightning sprites for improved BHGen
+			  Graf Zahl, Enjay, The Dark Archon and Bio Hazard for beta-testing
+			  Kevin Riepl for the music track
+			  Ozymandias81 for countless improvements, support and additions, you rock man!
+
+===========================================================================
+
+* Play Information *
+
+Map #                   : MAP01
+Source Port		: GZDoom 4.4+
+Single Player           : Yes
+Cooperative 2-8 Player  : Yes
+Deathmatch 2-8 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : Yes
+New Graphics            : Yes
+
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : v1.0 - 2 weeks
+			  v2.0 - 3 weeks
+Editor(s) used          : Adobe Photoshop, DoomBuilder, ACC, XWE, Ultimate Doom Builder,
+			  Slade, WadExt, Maverick3d, Blender, GIMP, LameXP
+Known Bugs              : None
+
+* Copyright *
+
+You may use material from this project for your own projects as long as you credit the respective creators.
+You may upload this file somewhere else as long as this file stays included as it is.
+You may base projects on this resources and setting.

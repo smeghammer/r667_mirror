@@ -1,0 +1,66 @@
+===========================================================================
+Title                   : Austerity - A Simplicity Tribute
+Filename                : austerity.pk3
+Date Finished           : December, 24th 2006 (v1.0)
+Revision Dates		: December, 25th 2006 (v1.01)
+			  February, 28th 2007 (v2.0)
+			  May, 18th 2011 (v2.1)
+			  May, 10th 2020 (v3.0)
+Author                  : Daniel "Tormentor667" Gimmer
+Web Page                : http://www.realm667.vom
+Email Address           : info@realm667.com
+
+Description             : A little map-set inspired by AgentSpork's masterpiece 
+			  and megawad project "Simplicity". 3 short levels with
+			  high-speed gameplay and classic expectations.
+
+Thx goes to	        : id Software for DooM & Quake
+			  Randy Heit for ZDoom
+			  Graf Zahl for GZDoom
+			  AgentSpork for Simplicity (some textures & graphics)
+			  Authors of AltDeaths from https://realm667.com/index.php/en/component/docman/?task=doc_download&gid=766&Itemid=
+			  Pascal Van Heiden for Doom Builder
+			  The team responsible for Ultimate Doom Builder
+			  Nick "Nightmare" Baker for his texture sets
+			  Wadfather and its contributors for the skybox
+			  The ZDoom community for technical support
+			  Epic Megagames "OMF 2097" and "Epic Pinball" for music
+			  Björn "Vader" Ostmann, "The NUtcracker", "none", 
+			  Solarsnowfall and Cutmanmike for Beta Testing
+			  NightFright for the statusbar code and brightmaps
+			  Nash and Enjay for the old Nashgore system
+			  KeksDose for fire effect base sprites
+			  Ozymandias81 for some new effects, improvements and testing
+			  Nash for zscriptfied actors and effects
+			  WH-Wilou84, Turin Turambar, blueinferno776, boris and DynamiteKaitorn for beta testing
+
+===========================================================================
+
+* Play Information *
+
+Map #                   : MAP01 - MAP03
+Source Port		: GZDoom 4.4+
+Single Player           : Yes
+Cooperative 2-8 Player  : Yes
+Deathmatch 2-8 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : Yes
+New Graphics            : Yes
+
+
+* Construction *
+
+Base                    : Inspired by Simplicity, Maps from scratch
+Build Time              : v1.0 - 3 months
+			  v3.0 - 3 weeks
+Editor(s) used          : Adobe Photoshop, DoomBuilder, ACC, WinTex, XWE, Ultimate Doom Builder,
+			  Slade, WadExt, LameXP, GIMP
+Known Bugs              : None	
+
+
+* Copyright *
+
+You may use material from this project for your own projects as long as you credit the respective creators.
+You may upload this file somewhere else as long as this file stays included as it is.
+You may base projects on this resources and setting.

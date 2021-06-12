@@ -1,0 +1,45 @@
+===========================================================================
+Title                   : KDiZD - Official Music Pack
+Filename                : kdizd_mu.pk3
+Date Finished           : May, 20th 2007
+Author                  : Daniel "Tormentor667" Gimmer
+Web Page                : http://www.realm667.com/
+
+Email Address           : webmaster@tormentor667.de
+
+Description             : Bored of the midi music? This is the in-official
+			  soundtrack for use with KDiZD that was used during
+			  the development by the team when legality issues
+			  weren't that important ;)
+
+Credits			: The Dark Side of Phobos - The Glass Moomn - DJ Carbunk1e, Ryan8bit
+			  Doom Purgatory - N-JekteD
+			  3D0 Doom - Music for D_E1M8 to D_E1M10
+			  Doomworld - Freddy Prince - Intermission
+			  Kadmium - Asphyxiated Soul
+===========================================================================
+
+* Play Information *
+
+Map #                   : N/A
+Source Port		: ZDoom
+Single Player           : N/A
+Cooperative 2-8 Player  : N/A
+Deathmatch 2-8 Player   : N/A
+Difficulty Settings     : N/A
+New Sounds              : No
+New Music               : Yes
+New Graphics            : No
+
+
+* Construction *
+
+Base                    : Original Doom Score by Bobby Prince
+Build Time              : N/A
+Editor(s) used          : XWE, Audacity
+Known Bugs              : None
+
+* Other Information *
+
+Where to Get		: http://www.realm667.com/
+Copy Information	: See Credits

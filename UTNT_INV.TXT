@@ -1,0 +1,103 @@
+===========================================================================
+Title                   : Ultimate Torment & Torture : Invasion
+Version			: v1.05
+Filename                : UTNT_INV.PK3
+Date Finished           : April, 23th 2007
+Author                  : Daniel "Tormentor667" Gimmer
+Web Page                : http://www.realm667.com
+			  http://www.tormentor667.de
+Other Work		: Torment & Torture Series
+			  Sapphire - Orbital Research
+			  Knee-Deep in ZDoom
+			  Austerity
+			  (and many more).tormentor667.de)
+
+Email Address           : webmaster@tormentor667.de
+
+Description             : A 5 Map Set for Skulltag's Invasion mode based
+			  in the world of Torment & Torture and created
+			  for Coop / Multiplayer
+
+Thx goes to	        : id Software for DooM & Quake
+			  Randy Heit for ZDoom
+			  Carnevil for Skulltag
+			  Pascal Van Heiden for Doom Builder
+			  The Skulltag community for technical support
+			   and feedback
+			  Epic Megagames "Unreal" and "Return to Na Pali" 
+			   for music
+			  Gothic Team for the Gothic Textures
+			  Solarsnowfall for the Sparkle Fountains
+			  Nash for the new Gore Effects
+===========================================================================
+
+* Play Information *
+
+Map #                   : T6INV01 - T6INV05
+Source Port		: Skulltag 0.97c3 (0.97d recommended!)
+Graphic Mode		: Hardware accelerated mode recommended (0.97d+)
+Single Player           : Yes
+Cooperative 2-8 Player  : Yes
+Deathmatch 2-8 Player   : No
+New Sounds              : Yes
+New Music               : Yes
+New Graphics            : Yes
+
+
+* Construction *
+
+Base                    : T6INV01 based on UTNT Episode 1
+			  T6INV02 based on UTNT Episode 2
+			  T6INV03 based on UTNT Episode 3 Map 2
+			  T6INV04 from scratch
+			  T6INV05 based on Doom2's "Dead Simple"
+Build Time              : 3 Weeks
+Editor(s) used          : Adobe Photoshop, DoomBuilder, ACC, WinTex, XWE
+Known Bugs              : None	
+
+* Version History *
+	  v0.1 Build 2	# T6INV01:Added more Ammo
+			# T6INV01:SSG accessable earlier
+	  v0.1 Build 3	# T6INV01:Fixed Belphegor spawning bug
+	  v0.2 Build 4  # Added T6INV02
+	  v0.2 Build 5  # T6INV02:Lava damages
+			# T6INV02:Moved Arch Viles
+				# T6INV02:BFG Harder to access
+				# T6INV02:Little Difficulty Adjustments
+	  v0.3 Build 6  # Added T6INV03
+	  v0.3 Build 7  # T6INV02:Added bridges over lava
+				  Adjusted difficulty
+			# T6INV03:Fixed misalignments 
+				  Moved misplaced obstacles
+				  Adjusted difficulty
+	  v0.5 Build 8  # Added T6INV05
+			  Added M_MULTI replacement
+			  Added new music
+	  v0.6 Build 9  # Added T6INV04 (new variant)
+	  v0.9 Build 10 # T6INV04:Added Health
+			  T6INV01-05:Added Sparkle Generators
+			  T6INV01-05:Added Ambient Sounds
+			  Added Sparkle Generator DECORATE
+			  Added new music
+			  Added TITLEPIC and INTERPIC
+			  Removed M_DOOM
+	  v1.0 Build 11 # Compiled PK3
+			# Little adjustments to all maps
+			# Finalizing and Release
+	  v1.01		# Nash Gore commented out for better FPS
+			# Fixed intermission music bug
+	  v1.02		# T6INV03:Difficulty reduced
+				  Added Player Starts 2-8
+				  Stone Bridge raising set to wave 9
+			# T6INV01-05:Little Adjustments
+	  v1.03		# Added "Network Lag Fix" by Ghastly Dragon
+	  v1.05		# Implementation of +CLIENTSIDEONLY flags for
+			  pure decorations, fixed some little bugs
+
+* Other Information *
+
+Where to Get		: www.realm667.com
+			  www.tormentor667.de
+			  /idgames archive
+Copy Information	: Do whatever you like with this as long as you keep
+			  things credited.

@@ -1,0 +1,48 @@
+=============================================================================
+Title                   : ZDoom Community Map Project II - Take 1
+Version			: v1.0 
+Filename                : zdcmp1.wad
+Date Finished           : April, 20th 2014
+Author                  : Various authors
+Web Page                : http://www.realm667.com/
+E-mail adress	        : info@realm667.com
+
+Description             : ZDCMP2 Take 1 was meant to be the successor to the
+			  ZDCMP1 but unfortunately was never finished due to 
+			  the lack of interest and very bad planning. Being lost
+			  years ago, this version got simply compiled for the
+			  archives and people who are interested in some history.
+
+Credits			: No idea who has been working on this, so let's just
+			  thank those who remember some of their work in there
+			  while playing.
+                          
+===========================================================================
+
+* Play Information *
+
+Maps                    : MAP01
+Source Port		: ZDoom (latest SVN required)
+IWAD			: DOOM2.WAD
+Single Player           : Yes
+Cooperative 2-8 Player  : Yes
+Deathmatch 2-8 Player   : No
+Difficulty Settings     : Yes
+New Sounds              : Yes
+New Music               : Yes
+New Graphics            : Yes
+
+
+* Construction *
+
+Base                    : Scratch
+Build Time              : From July 23rd till June 24th 2005
+Editor(s) used          : Photoshop, DoomBuilder, XWE
+Known Bugs              : None
+
+
+* Other Information *
+
+Where to Get		: http://www.realm667.com/
+			  http://www.doomworld.com/idgames/
+Copy Information	: You MUST NOT use material from this project.
